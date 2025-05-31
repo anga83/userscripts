@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Removes /?tl= language parameters from Reddit URLs (this usually happens when opened via Google or other search engines) to avoid Reddit post from being auto-translated and reloads automatically.
 // @author       https://github.com/anga83
+// @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Remove_Reddit_Language_Parameter.user.js
 // @match        *://www.reddit.com/*
 // @match        *://reddit.com/*
 // @grant        none
