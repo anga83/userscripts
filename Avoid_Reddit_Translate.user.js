@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Reddit Language Parameter Remover
+// @name         Remove Reddit Language Parameter
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Removes /?tl= language parameters from Reddit URLs (this usually happens when opened via Google or other search engines) to avoid Reddit post from being auto-translated and reloads automatically.
