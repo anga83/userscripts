@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Removes ?utm_source=chatgpt.com from URLs and reloads the page automatically
 // @author       https://github.com/anga83
+// @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Remove_ChatGPT_UTM_Parameter.user.js
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
