@@ -1,0 +1,1 @@
+Removes the `?tl=` parameter from Reddit URLs, which causes posts to be automatically translated into the browser's language. This parameter is usually added when links to Reddit posts are opened via Google or other search engines. This userscript reloads the tab without this parameter, thus avoiding this behaviour.
