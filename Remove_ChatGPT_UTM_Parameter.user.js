@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         Remove ChatGPT UTM Parameter
+// @name         Auto Remove ChatGPT UTM Parameter
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Removes ?utm_source=chatgpt.com from URLs and reloads the page automatically
+// @description:en Removes ?utm_source=chatgpt.com from URLs and reloads the page automatically
+// @description:de Entfernt ?utm_source=chatgpt.com aus URLs und lädt die Seite automatisch neu
 // @author       https://github.com/anga83
 // @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Remove_ChatGPT_UTM_Parameter.user.js
 // @match        *://*/*
