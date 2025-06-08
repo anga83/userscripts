@@ -5,7 +5,8 @@
 // @description  Hide individual eBay listings from search results
 // @description:en Hide individual eBay listings from search results
 // @description:de Einzelne eBay-Listings aus Suchergebnissen ausblenden
-// @author       You
+// @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/eBay_Hide_Listings.user.js
+// @author       https://github.com/anga83
 // @match        https://www.ebay.com/sch/*
 // @match        https://www.ebay.com/b/*
 // @match        https://www.ebay.de/sch/*
