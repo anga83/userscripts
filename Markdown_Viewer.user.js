@@ -1,8 +1,10 @@
 // ==UserScript==
 // @name         Markdown Viewer
 // @namespace    http://tampermonkey.net/
-// @version      2.0.1
+// @version      2.0.2
 // @description  Automatically formats and displays .md files with a pleasant, readable theme and font settings. Turn your browser into the only Markdown viewer you need by giving your Tampermonkey access to local files.
+// @description:en Automatically formats and displays .md files with a pleasant, readable theme and font settings. Turn your browser into the only Markdown viewer you need by giving your Tampermonkey access to local files.
+// @description:de Automatisch .md-Dateien formatieren und anzeigen mit einem angenehmen, lesbaren Thema und Schriftarten. Machen Sie Ihren Browser zum einzigen Markdown-Viewer, den Sie benötigen, indem Sie Tampermonkey Zugriff auf lokale Dateien gewähren.
 // @author       https://github.com/anga83
 // @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Markdown_Viewer.user.js
 // @match        *://*/*.md
