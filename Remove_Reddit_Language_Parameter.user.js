@@ -1,8 +1,10 @@
 // ==UserScript==
-// @name         Remove Reddit Language Parameter
+// @name         Prevent Reddit Auto-Translate
 // @namespace    http://tampermonkey.net/
-// @version      1.0
-// @description  Removes /?tl= language parameters from Reddit URLs (this usually happens when opened via Google or other search engines) to avoid Reddit post from being auto-translated and reloads automatically.
+// @version      1.0.1
+// @description  Prevent Reddit from auto-translating posts by removing the /?tl= language parameter from URLs. This usually happens when Reddit posts are opened via Google or other search engines.
+// @description:en Prevent Reddit from auto-translating posts by removing the /?tl= language parameter from URLs. This usually happens when Reddit posts are opened via Google or other search engines.
+// @description:de Verhindert, dass Reddit-Beiträge automatisch übersetzt werden, indem der /?tl= Parameter aus URLs entfernt wird. Dies passiert in der Regel, wenn Reddit-Beiträge über Google oder andere Suchmaschinen geöffnet werden.
 // @author       https://github.com/anga83
 // @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Remove_Reddit_Language_Parameter.user.js
 // @match        *://www.reddit.com/*
