@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Markdown Viewer
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.0.1
 // @description  Automatically formats and displays .md files with a pleasant, readable theme and font settings.
 // @author       https://github.com/anga83 (updated by GitHub Copilot)
 // @match        *://*/*.md
 // @include      file://*/*.md
+// @exclude      https://github.com/*
+// @exclude      http://github.com/*
 // @require      https://cdn.jsdelivr.net/npm/marked@12.0.2/lib/marked.umd.min.js
 // @resource     css_darkdown https://raw.githubusercontent.com/yrgoldteeth/darkdowncss/master/darkdown.css
 // @grant        GM_getResourceText
