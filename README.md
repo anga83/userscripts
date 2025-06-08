@@ -1,5 +1,9 @@
 # Userscripts
 
+## [eBay Hide Search Results](eBay_Hide_Listings.user.js)
+
+Hide individual eBay listings from search results. This is especially useful if you want to sort by price and want to exclude scams (like people selling only the box). Your hidden listings are stored in your browser's local storage, so they will persist across sessions.
+
 ## [Markdown Viewer](Markdown_Viewer.user.js)
 
 A userscript that allows you to view Markdown files directly in your browser. It automatically detects `.md` files and renders them as HTML, providing a more readable format.
