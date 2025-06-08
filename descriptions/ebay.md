@@ -1,0 +1,1 @@
+Hide individual eBay listings from search results. This is especially useful if you want to sort by price and want to exclude scams (like people selling only the box). Your hidden listings are stored in your browser's local storage, so they will persist across sessions.
