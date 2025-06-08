@@ -4,6 +4,7 @@
 // @version      2.0.1
 // @description  Automatically formats and displays .md files with a pleasant, readable theme and font settings. Turn your browser into the only Markdown viewer you need by giving your Tampermonkey access to local files.
 // @author       https://github.com/anga83
+// @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Markdown_Viewer.user.js
 // @match        *://*/*.md
 // @include      file://*/*.md
 // @exclude      https://github.com/*
