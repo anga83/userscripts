@@ -8,6 +8,7 @@
 // @include      file://*/*.md
 // @resource     marked https://cdn.jsdelivr.net/npm/marked@12.0.2/lib/marked.umd.min.js
 // @resource     css https://raw.githubusercontent.com/yrgoldteeth/darkdowncss/master/darkdown.css
+// @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/Markdown_Viewer.user.js
 // @grant        GM_getResourceText
 // @grant        GM_addStyle
 // @grant        GM_registerMenuCommand
