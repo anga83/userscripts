@@ -1,40 +1,26 @@
 // ==UserScript==
 // @name         eBay Hide Listings
 // @namespace    http://tampermonkey.net/
-// @version      1.1
+// @version      1.2
 // @description  Hide individual eBay listings from search results
 // @description:en Hide individual eBay listings from search results
 // @description:de Einzelne eBay-Listings aus Suchergebnissen ausblenden
 // @updateURL    https://github.com/anga83/userscripts/raw/refs/heads/main/eBay_Hide_Listings.user.js
 // @author       https://github.com/anga83
 // @match        https://www.ebay.com/sch/*
-// @match        https://www.ebay.com/b/*
 // @match        https://www.ebay.de/sch/*
-// @match        https://www.ebay.de/b/*
 // @match        https://www.ebay.co.uk/sch/*
-// @match        https://www.ebay.co.uk/b/*
 // @match        https://www.ebay.fr/sch/*
-// @match        https://www.ebay.fr/b/*
 // @match        https://www.ebay.it/sch/*
-// @match        https://www.ebay.it/b/*
 // @match        https://www.ebay.es/sch/*
-// @match        https://www.ebay.es/b/*
 // @match        https://www.ebay.ca/sch/*
-// @match        https://www.ebay.ca/b/*
 // @match        https://www.ebay.com.au/sch/*
-// @match        https://www.ebay.com.au/b/*
 // @match        https://www.ebay.at/sch/*
-// @match        https://www.ebay.at/b/*
 // @match        https://www.ebay.ch/sch/*
-// @match        https://www.ebay.ch/b/*
 // @match        https://www.ebay.be/sch/*
-// @match        https://www.ebay.be/b/*
 // @match        https://www.ebay.nl/sch/*
-// @match        https://www.ebay.nl/b/*
 // @match        https://www.ebay.pl/sch/*
-// @match        https://www.ebay.pl/b/*
 // @match        https://www.ebay.ie/sch/*
-// @match        https://www.ebay.ie/b/*
 // @grant        none
 // ==/UserScript==
 
